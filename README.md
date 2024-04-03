@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tajuar-akash
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning django and Mahine learning
+- 🌱 I’m currently learning django and Machine learning
 - 💞️ I’m looking to collaborate on Django projects
 - 📫 How to reach me ...
   Linkedin: linkedin.com/in/mahir-tajuar-akash
