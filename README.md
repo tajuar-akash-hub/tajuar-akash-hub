@@ -1,35 +1,53 @@
-### Hi there 👋, my name is Mahir Tajuar Akash 
-#### I am a Django Developer and Machine Learning Enthusiast 
-![I am Django Developer and Machine Learning Enthusiast ](https://media.licdn.com/dms/image/v2/D4D16AQEQQ-dTwP6-QQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715582747156?e=1732147200&v=beta&t=2QjlQLEetx54DJSA3xbipg-xC1TFMV1PbVFOe31kyDg)
+### Hi there 👋, I'm Mahir Tajuar Akash
+#### Django Developer | Machine Learning Enthusiast | CSE Student
 
-My name is Akash, and I'm a computer science and engineering student who loves to dream and reason. Currently, I'm pursuing my degree while working part-time as a junior backend developer using Django. I particularly enjoy mathematics and computer science, and my ultimate goal is to contribute significantly to this field shortly. 
+![I am Django Developer and Machine Learning Enthusiast](https://media.licdn.com/dms/image/v2/D4D16AQEQQ-dTwP6-QQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715582747156?e=1732147200&v=beta&t=2QjlQLEetx54DJSA3xbipg-xC1TFMV1PbVFOe31kyDg)
 
-Thank you for taking the time to read my message.
+---
 
-Skills: Django / REACT / JS / HTML / CSS / Machine Learning / Deep learning
+My name is **Mahir Tajuar Akash**, and I’m a **Computer Science & Engineering** student who loves to dream big and explore the world of technology. Currently, I’m pursuing my degree while working part-time as a **Backend Developer** using **Django**. My passion lies in **Machine Learning**, and I'm always learning new skills to contribute to the tech world.
 
-- 🔭 I’m currently working on Machine Learning on Economics 
-- 🌱 I’m currently learning Deep learning 
-- 👯 I’m looking to collaborate on Machine Learning 
-- 💬 Ask me about Dajngo, Machine learning, Deep learning  
-- 📫 How to reach me: https://www.linkedin.com/in/mahir-tajuar-akash-5243a020b/ 
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: I am an introvert ! 
+---
 
+### 👨‍💻 **About Me**:
+- 🔭 I’m currently working on **Machine Learning in Economics**
+- 🌱 I’m learning **Deep Learning** to level up my expertise
+- 👯 I’m looking to collaborate on **Machine Learning** projects
+- 💬 Ask me about **Django, Machine Learning, Deep Learning**
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mahir-tajuar-akash-5243a020b/)
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: I’m an **introvert** who loves learning in solitude!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tajuar-akash-hub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tajuar.akash.programmer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tajuar-akash-hub.github.io/My_portfolio/?fbclid=IwY2xjawFaMV9leHRuA2FlbQIxMAABHf7LprWP6zVt50Sbnaq_vBxGy0FNBmW_qX6gN5h8AVfZBEHlb7raaIsg0g_aem_1ZhX-_qQoMpMgj5t8HvZtw)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 🛠 **Skills**:
+- **Languages**: Python, JavaScript
+- **Frameworks**: Django, React
+- **Web Technologies**: HTML, CSS, JavaScript
+- **Data Science**: Machine Learning, Deep Learning
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/tajuar-akash-hub)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/tajuar-akash-hub)](https://github.com/anuraghazra/github-readme-stats)
+### 🌐 **Connect with Me**:
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tajuar-akash-hub)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tajuar.akash.programmer/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=for-the-badge&logo=icloud&logoColor=white)](https://tajuar-akash-hub.github.io/My_portfolio/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/tajuar-akash-hub&show_icons=true&count_private=true)  
+---
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/tajuar-akash-hub/contributions?format=svg&private=true)  
+### 📊 **GitHub Stats**:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tajuar-akash-hub&theme=highcontrast)](https://github.com/tajuar-akash-hub)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/tajuar-akash-hub)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajuar-akash-hub&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/tajuar-akash-hub)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajuar-akash-hub&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### 🏆 **GitHub Trophies**:
+[![trophy](https://github-profile-trophy.vercel.app/?username=tajuar-akash-hub&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 **Contributions**:
+![GitHub Contributions](https://metrics.lecoq.io/tajuar-akash-hub?template=classic&isocalendar=1&languages=1&achievements=1&base=header%3A0%2C%20isocalendar%3A0%2C%20languages%3A0%2C%20achievements%3A0%2C%20activity%3A0%2C%20lines%3A0%2C%20projects%3A0%2C%20repositories%3A0%2C%20stars%3A0%2C%20commits%3A0%2C%20forks%3A0%2C%20prs%3A0%2C%20issues%3A0&isocalendar.duration=full-year)
