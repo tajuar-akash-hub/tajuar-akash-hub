@@ -31,7 +31,7 @@ I am also passionate about **problem solving**. I enjoy tackling complex algorit
 ---
 
 ### 🚀 **Problem Solving Profiles**:
-- Codeforces: [Your Handle Here](#) (Add your Codeforces handle here)
+- Codeforces: [[Your Handle Here](https://codeforces.com/profile/tajuar.akash.pi)](#) (Add your Codeforces handle here)
 - LeetCode: [Your LeetCode Profile](#)
 
 ---
