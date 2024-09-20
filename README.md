@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mahir Tajuar Akash
-#### Django Developer | Machine Learning Enthusiast | CSE Student
+#### Django Developer | Machine Learning Enthusiast | CSE Student | Problem Solver
 
 ![I am Django Developer and Machine Learning Enthusiast](https://media.licdn.com/dms/image/v2/D4D16AQEQQ-dTwP6-QQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715582747156?e=1732147200&v=beta&t=2QjlQLEetx54DJSA3xbipg-xC1TFMV1PbVFOe31kyDg)
 
@@ -7,15 +7,16 @@
 
 My name is **Mahir Tajuar Akash**, and I’m a **Computer Science & Engineering** student who loves to dream big and explore the world of technology. Currently, I’m pursuing my degree while working part-time as a **Backend Developer** using **Django**. My passion lies in **Machine Learning**, and I'm always learning new skills to contribute to the tech world.
 
+I am also passionate about **problem solving**. I enjoy tackling complex algorithms and data structures, regularly participating in online coding contests. Problem-solving helps me stay sharp and continuously improve my coding skills.
+
 ---
 
 ### 👨‍💻 **About Me**:
 - 🔭 I’m currently working on **Machine Learning in Economics**
 - 🌱 I’m learning **Deep Learning** to level up my expertise
-- 👯 I’m looking to collaborate on **Machine Learning** projects
+- 👯 I’m looking to collaborate on **Machine Learning** and **Django** projects
 - 💬 Ask me about **Django, Machine Learning, Deep Learning**
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mahir-tajuar-akash-5243a020b/)
-- 😄 Pronouns: **he/him**
+- 👨‍🏫 Passionate about **competitive programming** and solving complex algorithms
 - ⚡ Fun fact: I’m an **introvert** who loves learning in solitude!
 
 ---
@@ -25,6 +26,13 @@ My name is **Mahir Tajuar Akash**, and I’m a **Computer Science & Engineering*
 - **Frameworks**: Django, React
 - **Web Technologies**: HTML, CSS, JavaScript
 - **Data Science**: Machine Learning, Deep Learning
+- **Problem Solving**: Algorithms, Data Structures, Dynamic Programming, Graph Theory
+
+---
+
+### 🚀 **Problem Solving Profiles**:
+- Codeforces: [Your Handle Here](#) (Add your Codeforces handle here)
+- LeetCode: [Your LeetCode Profile](#)
 
 ---
 
