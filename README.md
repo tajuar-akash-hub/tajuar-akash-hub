@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mahir Tajuar Akash 
-#### I am Django Developer and Machine Learning Enthusiast 
+#### I am a Django Developer and Machine Learning Enthusiast 
 ![I am Django Developer and Machine Learning Enthusiast ](https://media.licdn.com/dms/image/v2/D4D16AQEQQ-dTwP6-QQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715582747156?e=1732147200&v=beta&t=2QjlQLEetx54DJSA3xbipg-xC1TFMV1PbVFOe31kyDg)
 
 My name is Akash, and I'm a computer science and engineering student who loves to dream and reason. Currently, I'm pursuing my degree while working part-time as a junior backend developer using Django. I particularly enjoy mathematics and computer science, and my ultimate goal is to contribute significantly to this field shortly. 
