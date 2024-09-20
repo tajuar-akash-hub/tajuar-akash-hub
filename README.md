@@ -53,8 +53,8 @@ My goal is to master more problem-solving platforms like **AtCoder**, **HackerRa
 <a href="https://tajuar-akash-hub.github.io/My_portfolio/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=for-the-badge&logo=icloud&logoColor=white)</a>
 
 ---
--->
 
+<!-- 
 ### 📊 **GitHub Stats**:
 <a href="https://github.com/tajuar-akash-hub" target="_blank">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tajuar-akash-hub&theme=highcontrast)</a>
 
@@ -62,7 +62,7 @@ My goal is to master more problem-solving platforms like **AtCoder**, **HackerRa
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajuar-akash-hub&show_icons=true&theme=highcontrast)</a>
 
-<!-- 
+
 ---
 
 ### 🏆 **GitHub Trophies**:
