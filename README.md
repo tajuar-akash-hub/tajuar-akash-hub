@@ -31,8 +31,20 @@ I am also passionate about **problem solving**. I enjoy tackling complex algorit
 ---
 
 ### 🚀 **Problem Solving Profiles**:
-- Codeforces: [[Click on it]](https://codeforces.com/profile/tajuar.akash.pi)](#) (Add your Codeforces handle here)
-- LeetCode: [Your LeetCode Profile](#)
+- ![Codeforces](https://img.shields.io/badge/Codeforces-%234566B5.svg?style=for-the-badge&logo=codeforces&logoColor=white) [**Codeforces**](https://codeforces.com/profile/tajuar.akash.pi)  
+  💡 I am constantly pushing myself to solve increasingly complex problems. Competitive programming isn't just a hobby, it's a passion that sharpens my problem-solving mindset and keeps me challenged. **Check out my Codeforces profile and follow my journey!**
+
+- ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black) [**LeetCode**](#)  
+  💪 I'm also active on LeetCode, tackling daily challenges and exploring various data structures and algorithms. Stay tuned for my profile link soon! 🔥
+  
+---
+
+🎯 **Dedication**:  
+I believe in consistent improvement and the power of practice. Competitive programming has been my way to stay sharp and grow as a coder. Whether it's understanding a tricky dynamic programming problem or optimizing solutions for time complexity, I'm always ready for the next challenge! 😎
+
+🔗 **Coming Soon**:  
+My goal is to master more problem-solving platforms like **AtCoder**, **HackerRank**, and beyond! The journey is just getting started 🚀✨.
+
 
 ---
 
