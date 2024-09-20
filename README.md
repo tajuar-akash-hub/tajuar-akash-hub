@@ -31,10 +31,10 @@ I am also passionate about **problem solving**. I enjoy tackling complex algorit
 ---
 
 ### 🚀 **Problem Solving Profiles**:
-- ![Codeforces](https://img.shields.io/badge/Codeforces-%234566B5.svg?style=for-the-badge&logo=codeforces&logoColor=white) [**Codeforces**](https://codeforces.com/profile/tajuar.akash.pi)  
+- <a href="https://codeforces.com/profile/tajuar.akash.pi" target="_blank">![Codeforces](https://img.shields.io/badge/Codeforces-%234566B5.svg?style=for-the-badge&logo=codeforces&logoColor=white) **Codeforces**</a>  
   💡 I am constantly pushing myself to solve increasingly complex problems. Competitive programming isn't just a hobby, it's a passion that sharpens my problem-solving mindset and keeps me challenged. **Check out my Codeforces profile and follow my journey!**
 
-- ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black) [**LeetCode**](#)  
+- <a href="#" target="_blank">![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black) **LeetCode**</a>  
   💪 I'm also active on LeetCode, tackling daily challenges and exploring various data structures and algorithms. Stay tuned for my profile link soon! 🔥
   
 ---
@@ -45,29 +45,28 @@ I believe in consistent improvement and the power of practice. Competitive progr
 🔗 **Coming Soon**:  
 My goal is to master more problem-solving platforms like **AtCoder**, **HackerRank**, and beyond! The journey is just getting started 🚀✨.
 
-
 ---
 
 ### 🌐 **Connect with Me**:
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tajuar-akash-hub)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tajuar.akash.programmer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=for-the-badge&logo=icloud&logoColor=white)](https://tajuar-akash-hub.github.io/My_portfolio/)
+<a href="https://github.com/tajuar-akash-hub" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://www.facebook.com/tajuar.akash.programmer/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://tajuar-akash-hub.github.io/My_portfolio/" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=for-the-badge&logo=icloud&logoColor=white)</a>
 
 ---
 
 ### 📊 **GitHub Stats**:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tajuar-akash-hub&theme=highcontrast)](https://github.com/tajuar-akash-hub)
+<a href="https://github.com/tajuar-akash-hub" target="_blank">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tajuar-akash-hub&theme=highcontrast)</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajuar-akash-hub&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tajuar-akash-hub&layout=compact&theme=highcontrast)</a>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajuar-akash-hub&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tajuar-akash-hub&show_icons=true&theme=highcontrast)</a>
 
 ---
 
 ### 🏆 **GitHub Trophies**:
-[![trophy](https://github-profile-trophy.vercel.app/?username=tajuar-akash-hub&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">![trophy](https://github-profile-trophy.vercel.app/?username=tajuar-akash-hub&theme=darkhub)</a>
 
 ---
 
 ### 📈 **Contributions**:
-![GitHub Contributions](https://metrics.lecoq.io/tajuar-akash-hub?template=classic&isocalendar=1&languages=1&achievements=1&base=header%3A0%2C%20isocalendar%3A0%2C%20languages%3A0%2C%20achievements%3A0%2C%20activity%3A0%2C%20lines%3A0%2C%20projects%3A0%2C%20repositories%3A0%2C%20stars%3A0%2C%20commits%3A0%2C%20forks%3A0%2C%20prs%3A0%2C%20issues%3A0&isocalendar.duration=full-year)
+<a href="https://metrics.lecoq.io/tajuar-akash-hub?template=classic&isocalendar=1&languages=1&achievements=1&base=header%3A0%2C%20isocalendar%3A0%2C%20languages%3A0%2C%20achievements%3A0%2C%20activity%3A0%2C%20lines%3A0%2C%20projects%3A0%2C%20repositories%3A0%2C%20stars%3A0%2C%20commits%3A0%2C%20forks%3A0%2C%20prs%3A0%2C%20issues%3A0&isocalendar.duration=full-year" target="_blank">![GitHub Contributions](https://metrics.lecoq.io/tajuar-akash-hub?template=classic&isocalendar=1&languages=1&achievements=1&base=header%3A0%2C%20isocalendar%3A0%2C%20languages%3A0%2C%20achievements%3A0%2C%20activity%3A0%2C%20lines%3A0%2C%20projects%
