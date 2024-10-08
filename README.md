@@ -13,7 +13,7 @@ I am also passionate about **problem solving**. I enjoy tackling complex algorit
 
 ### 👨‍💻 **About Me**:
 - 🔭 I’m currently working on **Machine Learning in Economics**
-- 🌱 I’m learning "Linear Algebra for Machine Learning and Data Science by DeepLearning.AI" to level up my expertise
+- 🌱 I’m currently learning "Linear Algebra for Machine Learning and Data Science by DeepLearning.AI" to level up my expertise
 - 
 - 👯 I’m looking to collaborate on **Machine Learning** and **Django** projects
 - 💬 Ask me about **Django, Machine Learning, Deep Learning**
