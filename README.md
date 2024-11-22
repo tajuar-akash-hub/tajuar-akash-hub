@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mahir Tajuar Akash
-#### Django Developer | Machine Learning Enthusiast | CSE Student | Problem Solver
+## Django Developer | Machine Learning Enthusiast | CSE Student | Problem Solver
 
-![I am Django Developer and Machine Learning Enthusiast](https://media.licdn.com/dms/image/v2/D4D16AQEQQ-dTwP6-QQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715582747156?e=1732147200&v=beta&t=2QjlQLEetx54DJSA3xbipg-xC1TFMV1PbVFOe31kyDg)
+
 
 ---
 
