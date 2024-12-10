@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mahir Tajuar Akash
-## Django Developer | Machine Learning/Deep leanring Enthusiast | CSE Student | Problem Solver
+## Django Developer | Machine Learning/Deep learning Enthusiast | CSE Student | Problem Solver
 
 
 
